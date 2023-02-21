@@ -1,1 +1,1 @@
-## Anthony Muller alias Tony
+## alias Tony='Anthony Muller'
